@@ -24,4 +24,7 @@
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
 
 ---
-Desenvolvido por a Gabriel Carreiro
+🧰 Desenvolvido por <a href="https://github.com/h-krank">Breno Bragança</a> |
+<a href="https://github.com/DanielNNF">Daniel Araújo</a> |
+<a href="https://github.com/elviamasiero">Elvia Masiero</a> |
+<a href="https://github.com/GabrielCarreiro">Gabriel Carreiro</a>
